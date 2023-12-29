@@ -10,4 +10,4 @@
 
 
 ## Signin Page
-<img src="assets/Screenshots/Signup%20Page.jpg.jpg" width=300/>
+<img src="assets/Screenshots/Signup%20Page.jpg" width=300/>
