@@ -1,4 +1,4 @@
-# Flutter ![icons8-flutter-48](https://github.com/TechboyVerma/Authentication_Page_Ui_with_Firebase/assets/114131682/7e8a34c6-2d96-4acd-a870-e84eb8a9048c)
+# Flutter Project ![icons8-flutter-48](https://github.com/TechboyVerma/Authentication_Page_Ui_with_Firebase/assets/114131682/7e8a34c6-2d96-4acd-a870-e84eb8a9048c)
 .
 .
 .
